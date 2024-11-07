@@ -8,4 +8,4 @@
 - NoCooldown - remove cooldown from plants
 - MoneySubToAdd - SubToAdd but with money
 
- ##### Tested on steam pvz version (you can use this link https://itorrents-igruha.org/988-rasteniya-protiv-zombi.html)
+ ##### Tested on steam pvz version
